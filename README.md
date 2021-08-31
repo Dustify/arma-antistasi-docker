@@ -36,6 +36,6 @@ docker attach arma-antistasi
 
 screen -r
 
-CTRL A+D
+CTRL A+D to detach from screen
 
-CTRL P+Q
+CTRL P+Q to detach from container (dont use 'exit', it'll stop the container)
