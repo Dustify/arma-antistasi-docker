@@ -26,7 +26,9 @@ Configure standard arma difficulty settings
 
 **server.cfg**
 
-This is where the antistasi game settings are stored, see https://github.com/official-antistasi-community/A3-Antistasi/blob/unstable/A3-Antistasi/MissionDescription/params.hpp for detail on available options and values
+Configure antistasi game settings, see https://github.com/official-antistasi-community/A3-Antistasi/blob/unstable/A3-Antistasi/MissionDescription/params.hpp for detail on available options and values
+
+Configure server parameters (passwords, admins, hostname etc.)
 
 ### Build the image
 
