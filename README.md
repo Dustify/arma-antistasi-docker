@@ -58,9 +58,17 @@ Edit the command based on which port is set in run.sh, examples below:
 
 ```./wrapper.sh```
 
+### Start the headcless clients
+
+```./wrapper-hc.sh```
+
+### Stop the headless clients
+
+```./kill-hc.sh```
+
 ### Attach to screen to monitor server
 
-```screen -r```
+```screen -r arma```
 
 ### Detach from screen
 

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-screen -d -m ~/run.sh
+screen -S "arma" -d -m ~/run.sh
