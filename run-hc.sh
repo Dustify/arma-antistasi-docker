@@ -2,7 +2,7 @@
 
 while true
 do
-        cd ~/steamcmd
+        cd ~/steam
 
         ./steamcmd.sh +login USERNAME PASSWORD +app_update 233780 +quit
 

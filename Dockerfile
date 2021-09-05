@@ -35,7 +35,7 @@ COPY --chown=steam Player.Arma3Profile .
 
 WORKDIR "/home/steam"
 
-COPY --chown=steam *.sh . 
+COPY --chown=steam *.sh ./
 RUN chmod +x *.sh
 
 CMD /bin/bash
