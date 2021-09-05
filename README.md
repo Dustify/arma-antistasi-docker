@@ -16,7 +16,7 @@ Disable steam guard authentication.
 
 Replace USERNAME and PASSWORD with steam credentials
 
-**run.sh**
+**run.sh & run-hc.sh**
 
 Replace USERNAME and PASSWORD with steam credentials, set a different port if required
 
